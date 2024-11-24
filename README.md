@@ -28,6 +28,3 @@ Using this information, the key is derived and then applied to the entire file t
 - The `bitarray` module (if using the bit-oriented version of the script): Install it using pip:
   ```bash
   pip install bitarray
-
-Run the script using:
-python xor_decrypt.py
